@@ -1,0 +1,4 @@
+#Wed Apr 05 10:50:04 ULAT 2023
+base.0=C\:\\Users\\purev-erdene.ch.MBANK\\Desktop\\projects\\dart\\spotify\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
