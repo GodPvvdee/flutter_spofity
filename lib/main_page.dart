@@ -145,5 +145,5 @@ class BottomNavBarItem extends StatelessWidget {
 List<Widget> _pages = <Widget>[
   const HomePage(),
   const SearchPage(),
-  const ProflePage(),
+  ProfilePage(),
 ];
